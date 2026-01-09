@@ -1,2 +1,0 @@
-# This file is a dummy file which is solely used for demo pruposes as this file needs to be copied from jero-maerlant to the GitHub Classroom maerlant/sandbox repo
-# The student should get familiar with copying a file from one repo to another one as they will need this for the exams.
